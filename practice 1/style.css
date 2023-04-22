@@ -1,0 +1,33 @@
+
+.header{
+    height: 80px;
+    width: 35%;
+    background-color: rgb(113, 13, 113);
+    margin: 5px;
+    border: 2px solid  black;
+    
+}
+.center1{
+    height: 400px;
+    width: 11%;
+    background: red;
+    float: left;
+    margin: 5px;
+    border: 2px solid  black;
+}
+.center2{
+    height: 400px;
+    width: 11%;
+    background: greenyellow;
+    float: left;
+    margin: 5px;
+    border: 2px solid  black;
+}
+.center3{
+    height: 400px;
+    width: 11%;
+    background: yellow;
+    float: left;
+    margin: 5px;
+    border: 2px solid  black;
+}

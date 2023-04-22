@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    height: 30px;
+    width: 100%;
+    background: red;
+    padding-top: 20px;
+}
+.menu li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+.header{
+    height: 125px;
+    width: 100%;
+    background: blue;
+}
+
+#container{
+    height: 500px;
+    width: 100%;
+
+}
+.content{
+    height: 500px;
+    width: 70%;
+    background: rgb(12, 229, 12);
+    float: right;
+}
+.sidebar{
+    height: 500px;
+    width: 30%;
+    background: rgb(59, 147, 59) 
+}
+.footer{
+    height: 70px;
+    width: 100%;
+    background: orange;
+}

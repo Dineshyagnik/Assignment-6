@@ -1,0 +1,31 @@
+*{margin: 0px; padding: 0px;}
+
+
+.mainbody{height: 1200px; width: 100%; }
+.header{height: 150px; width: 100%;}
+.headerleft1{height:150px ; width:20%; margin-left: 4%; float: left; margin-right: 2%;
+background: turquoise;}
+.headerleft2{height:150px ; width:20%; margin-left: 2%; margin-right: 2%; float: left;
+     background: rgba(112, 63, 117,0.4);}
+     .headerleft3{height:150px ; width:20%;  float: left;
+          background:  rgba(179, 171, 31, 0.4); margin-left: 2%; margin-right: 2%;}
+          .headerleft4{height:150px ; width:20%;  float: left;
+               background:  rgba(40, 149, 159, 0.4); margin-left: 2%; margin-right: 2%;}
+
+
+
+
+
+.menu{height: 50px; width: 100%; background: wheat;
+position:sticky; top: 1px;}
+.slider{height: 400px; width: 100%; background: green;}
+.center{height: 500px; width: 100%; background: grey;}
+.footer{height: 100px; width: 100%; background: black; 
+     color: white;}
+     .left1{height: 500px; width: 30%; background: yellow; 
+          float: left;}
+.left2{height: 500px; width: 40%; background: violet; float: left;}
+.left3{height: 500px; width: 30%; background: purple; float: left;}
+
+.form{height: 300px; width: 350px; background: rgba(112, 63, 117,0.4);
+position: absolute; top: 550px; left:70px}

@@ -1,0 +1,11 @@
+*{margin: 0px; padding: 0px;}
+
+
+.mainbody{height: 1200px; width: 100%; background: violet;}
+.header{height: 150px; width: 100%; background: orange;}
+.menu{height: 50px; width: 100%; background: wheat;
+position:sticky; top: 1px;}
+.slider{height: 400px; width: 100%; background: green;}
+.center{height: 500px; width: 100%; background: grey;}
+.footer{height: 100px; width: 100%; background: black; 
+     color: white;}

@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 70px;
+    width: 100%;
+    background: red;
+}
+.header p{
+    padding-top: 20px;
+}
+#container{
+    height: 600px;
+    width: 100%;
+    background: #000;
+}
+.c1{
+    height: 600px;
+    width: 34%;
+    background: yellow;
+    float: left;
+}
+.c1 p{
+    padding-top: 300px;
+}
+.c2{
+    height: 600px;
+    width: 33%;
+    background: green;
+    float: left;
+}
+.c2 p{
+    padding-top: 300px;
+}
+.c3{
+    height: 600px;
+    width: 33%;
+    background: rgb(11, 227, 11);
+    float: left;
+}
+.c3 p{
+    padding-top: 300px;
+}
+.footer{
+    height: 75px;
+    width: 100%;
+    background: rgb(111, 56, 111);
+}
+.footer p{
+    padding-top: 30px;
+}
